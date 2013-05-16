@@ -8,4 +8,4 @@
 
 5. Likewise, run the file which will execute the Bottle micro web framework which in turn will connect to the MongoDB database (inside mooc-ws).
 
-6. go to host:port/home an play thorugh GUI.
+6. go to host:port/home and play thorugh GUI.
